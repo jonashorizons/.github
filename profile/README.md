@@ -4,6 +4,10 @@
 
 An independent project by [Jonas Gantner](https://github.com/jonasgantner), an entrepreneur based in Switzerland, exploring how to design a life with more freedom, opportunities and experiences.
 
+## About this GitHub
+
+A home for scripts, workflows, and open-source experiments in AI automation, macOS productivity, and e-commerce operations. I’m interested in tools that take repetitive work off your plate and give you more time for the things you want to do.
+
 ## Enabling freedom
 
 - Entrepreneurship & business
@@ -16,12 +20,10 @@ An independent project by [Jonas Gantner](https://github.com/jonasgantner), an e
 
 Exploring the world, learning continuously, embracing new experiences and questioning conventional ways of living.
 
-## About this GitHub
-
-A home for experiments, tools, workflows, open-source projects and practical resources at the intersection of technology, business and everyday life.
-
 ## Connect
 
-- [Jonas Gantner on GitHub](https://github.com/jonasgantner)
 - [Jonas Horizons on LinkedIn](https://www.linkedin.com/company/jonashorizons/)
+- [Jonas Horizons on YouTube](https://www.youtube.com/@JonasHorizons)
+- [Jonas Horizons on X](https://x.com/JonasHorizons)
 - [@jonashorizons on Instagram](https://www.instagram.com/jonashorizons/)
+- [All social links on Linktree](https://linktr.ee/jonashorizons)
